@@ -1,3 +1,6 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 2019-06-15
 
-* TODO: Describe initial release.
+* Burada paketimizi kullanacak kişiler için
+ yaptığımız değişiklikleri tarih tarhi belirtiyoruz.
+ 
+* A description for people who will use that package or version.

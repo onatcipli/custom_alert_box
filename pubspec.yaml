@@ -1,8 +1,8 @@
 name: custom_alert_box
-description: A new Flutter project.
+description: To be able to show a custom alert box easly.
 version: 0.0.1
-author:
-homepage:
+author: Onat Çipli<ciplionat35@gmail.com>
+homepage: https://github.com/onatcipli/custom_alert_box.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
