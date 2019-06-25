@@ -1,6 +1,6 @@
 # custom_alert_box
 
-A new Flutter project.
+A pure dart package for showing custome alert box in app created for [medium article](https://medium.com/flutter-t%C3%BCrkiye/nas%C4%B1l-flutter-package-olu%C5%9Fturulur-ve-yay%C4%B1nlar%C4%B1m-d3d0501565f2).
 
 ## Getting Started
 
